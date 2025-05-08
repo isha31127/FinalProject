@@ -69,7 +69,7 @@ career_images = {
     "Information Security Specialist": "InformationSecuritySpecialist.jpeg",
     "Technical Writer": "Technical Writer.jpg",
     "AI ML Specialist": "AI_ML_Specialist.jpeg",
-    "Software Tester": "sw tester.jpeg",
+    "Software Tester": "swtester.jpeg",
     "Business Analyst": "Busnissanalyst.png",
     "Customer Service Executive": "CustomerServiceExecutive.jpg",
     "Data Scientist": "DataSciencist.png",
